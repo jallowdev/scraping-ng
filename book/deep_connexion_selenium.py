@@ -37,7 +37,7 @@ try:
 
     # 3. Remplir les identifiants (à remplacer par vos données)
     email_input.send_keys("ibrahima.diallo@diotali.com")
-    password_input.send_keys("Dia@4321")
+    password_input.send_keys("*********")
 
     # 4. Cliquer sur le bouton de connexion
     login_button.click()
